@@ -37,8 +37,8 @@
           <h3>Gender</h3>
           <div class="gender-option">
             <div class="gender">
-              <input type="radio" id="check-male" name="gender" checked />
-              <label for="check-male">male</label>
+              <input type="radio" id="check-Male" name="gender" checked />
+              <label for="check-Male">Male</label>
             </div>
             <div class="gender">
               <input type="radio" id="check-female" name="gender" />
