@@ -19,8 +19,8 @@
         </div>
 
         <div class="input-box">
-          <label>Email Address</label>
-          <input type="text" placeholder="Enter email address" required />
+          <label>Gmail Address</label>
+          <input type="text" placeholder="Enter GODmail address" required />
         </div>
 
         <div class="column">
