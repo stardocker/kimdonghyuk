@@ -42,7 +42,7 @@
             </div>
             <div class="gender">
               <input type="radio" id="check-female" name="gender" />
-              <label for="check-female">Female</label>
+              <label for="check-female">FeRemale</label>
             </div>
             <div class="gender">
               <input type="radio" id="check-other" name="gender" />
